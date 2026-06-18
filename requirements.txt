@@ -2,7 +2,7 @@ fastapi
 uvicorn
 python-multipart
 deepface
-tensorflow==2.19.0
+tf-keras
 opencv-python-headless
 numpy
 pillow
